@@ -3,8 +3,7 @@
 </p>
 <h2> Hello!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2> 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png" width="300" height="415">
-An exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer,<br/> 
-I love the world of DevOps. I am trying to create magic with automation 
+An exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer,I love the world of DevOps. I am trying to create magic with automation 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pavithra_Nagaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavithra-nagaraj-803203154/)](https://www.linkedin.com/in/pavithra-nagaraj-803203154/) [![Gmail Badge](https://img.shields.io/badge/-pavithraraj2619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavithraraj2619@gmail.com)](mailto:pavithraraj2619@gmail.com)
 
