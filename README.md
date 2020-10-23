@@ -1,6 +1,7 @@
 
-<h2> Hello, This is Pavithra Nagaraj  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png">
-I am Pavithra Nagaraj an exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer, I love the world of DevOps. I am trying to create magic with automation 
+<h2> Hello,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> </br>
+<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png">
+I'm Pavithra Nagaraj, An exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer, I love the world of DevOps. I am trying to create magic with automation 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pavithra_Nagaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavithra-nagaraj-803203154/)](https://www.linkedin.com/in/pavithra-nagaraj-803203154/) [![Gmail Badge](https://img.shields.io/badge/-pavithraraj2619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavithraraj2619@gmail.com)](mailto:pavithraraj2619@gmail.com)
 
@@ -9,11 +10,8 @@ I am Pavithra Nagaraj an exuberant tech enthusiast, and a self taught techie. Ev
 
 </p>
 
-<p align="left" width="80" height="80">
-## :computer: Technologies I Love
-* :cloud: GCP, AWS 
-* DevOps CI/CD
-* Automation in python
+
+## 💻 Technologies I Love ❤️
 
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
  <!-- <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="40"/> -->
@@ -26,7 +24,7 @@ I am Pavithra Nagaraj an exuberant tech enthusiast, and a self taught techie. Ev
  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="40" height="40" />
  <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="40" height="40" />
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="40" height="40" />
- </p>
+ 
 
 
 ![Pavithra's github stats](https://github-readme-stats.vercel.app/api?username=pavithranagaraj26&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
