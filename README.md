@@ -2,7 +2,7 @@
   <img src="logos/ace.png" width="80" height="80" />
 </p>
 <h2> Hello!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2> 
-<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png" width="300" height="400">
+<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png" width="300" height="410">
 An exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer,<br/> 
 I love the world of DevOps. I am trying to create magic with automation 
 
