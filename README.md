@@ -8,6 +8,8 @@ An exuberant tech enthusiast, and a self taught techie. Even though I am not an 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pavithra_Nagaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavithra-nagaraj-803203154/)](https://www.linkedin.com/in/pavithra-nagaraj-803203154/) [![Gmail Badge](https://img.shields.io/badge/-pavithraraj2619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavithraraj2619@gmail.com)](mailto:pavithraraj2619@gmail.com)
 
+Portfolio **https://pavithranagaraj26.github.io/**
+
 ## 💻 Technologies I Love ❤️
 <p align="left">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
