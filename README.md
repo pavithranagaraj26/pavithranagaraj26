@@ -1,5 +1,5 @@
 <p align="centre">
-  <img src="logos/ace.png" width="80" height="80" />
+  <img src="logos/ace.png" width="80" height="80" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29408027" width="80" height="80" />
 </p>
 <h2> Hello!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2> 
 <img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png" width="300" height="415">
