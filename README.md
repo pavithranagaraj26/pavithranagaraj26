@@ -60,4 +60,4 @@ Click 👉 <a href="https://pavithranagaraj26.github.io/"> Portfolio </a>
   <img src="https://skillicons.dev/icons?i=gcp,azure,aws,terraform,kubernetes,docker,python,git,githubactions,jenkins,ansible,grafana,prometheus,linux,bash" alt="Technologies" />
 </p>
 
-![Pavithra's github stats](https://github-readme-stats.vercel.app/api?username=pavithranagaraj26&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Pavithra's github stats](https://github-readme-stats-fast.vercel.app/api?username=pavithranagaraj26&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
