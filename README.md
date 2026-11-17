@@ -31,12 +31,14 @@ Click 👉 <a href="https://pavithranagaraj26.github.io/"> Portfolio </a>
 
 ## 🎓 Certifications
 
-- Google Cloud Professional Cloud Architect
-- Google Cloud Associate Cloud Engineer
-- HashiCorp Certified: Terraform Associate
-- Microsoft Certified: Azure Fundamentals
-- Certified Jenkins Engineer (2021)
-- PCEP - Certified Entry-Level Python Programmer
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals" />
+  <img src="https://img.shields.io/badge/Jenkins-Certified_Engineer_2021-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Certified Jenkins Engineer 2021" />
+  <img src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified Entry-Level Python Programmer" />
+</p>
 
 ## 💻 Technologies I Love ❤️
 
