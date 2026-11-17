@@ -1,27 +1,47 @@
-<p align="centre">
-  <img src="logos/ace.png" width="80" height="80" /><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29408027" width="80" height="80" />
+<p align="center">
+  <img src="logos/ace.png" width="80" height="80" />
 </p>
-<h2> Hello!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2> 
-<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/emojidex/112/female-technologist_1f469-200d-1f4bb.png" width="300" height="415">
-An exuberant tech enthusiast, and a self taught techie. Even though I am not an impeccable programmer,I love the world of DevOps. I am trying to create magic with automation 
 
+<h2>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2>
+
+**Senior Cloud Platform Engineer** based in Dublin, Ireland, with 8+ years designing, automating and securing public cloud platforms across **GCP, Azure and AWS** at enterprise scale (1,800+ projects).
+
+I'm a software developer in **Python and Go** who builds internal self-service platforms, APIs and event-driven automation, backed by Terraform, CI/CD, observability and a strong IAM, networking and governance practice. Experienced in **PCI DSS, ISO 27001 and SOC 2** environments.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Pavithra_Nagaraj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavithra-nagaraj-803203154/)](https://www.linkedin.com/in/pavithra-nagaraj-803203154/) [![Gmail Badge](https://img.shields.io/badge/-pavithraraj2619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pavithraraj2619@gmail.com)](mailto:pavithraraj2619@gmail.com)
 
 Click 👉 <a href="https://pavithranagaraj26.github.io/"> Portfolio </a>
 
-## 💻 Technologies I Love ❤️
-<p align="left">
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
- <img src="https://img.icons8.com/color/452/amazon-web-services.png" width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure"  width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="40" height="40" />
- <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="Terraform"  width="40" height="40"/>
- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/kubernetes.svg" alt="kubernetes"  width="40" height="40" />
- <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="jenkins"  width="40" height="40" />
+## 🚀 What I do
 
+- **Cloud platforms and governance:** cloud foundations, multi-cloud and multi-tenant architecture, project lifecycle and cost-driven decommissioning
+- **Identity and security:** least-privilege IAM, cross-cloud Workload Identity Federation (Azure to GCP), Security Command Center automation
+- **Automation and tooling:** Python and Go services, event-driven functions, internal self-service platforms and an MCP server
+- **Delivery and reliability:** Terraform, GitOps, CI/CD, Kubernetes (GKE, AKS), observability with Grafana, Loki and Prometheus, incident ownership and RCA
+
+## 🏢 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Cloud Platform Engineer | Activision Blizzard King, Dublin | Sep 2023 - Present |
+| Senior GCP DevOps Engineer | HCL Technology, Bangalore | Aug 2022 - Aug 2023 |
+| Cloud DevOps Engineer | DXC Technology, Bangalore | Apr 2021 - Aug 2022 |
+| Cloud DevOps Engineer | Impact Analytics, Bangalore | Dec 2019 - Apr 2021 |
+| Cloud DevOps Analyst | Deloitte Consulting US India, Bangalore and Hyderabad | Nov 2017 - Sep 2019 |
+
+## 🎓 Certifications
+
+- Google Cloud Professional Cloud Architect
+- Google Cloud Associate Cloud Engineer
+- HashiCorp Certified: Terraform Associate
+- Microsoft Certified: Azure Fundamentals
+- Certified Jenkins Engineer (2021)
+- PCEP - Certified Entry-Level Python Programmer
+
+## 💻 Technologies I Love ❤️
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp,azure,aws,terraform,kubernetes,docker,python,go,git,githubactions,jenkins,ansible,grafana,prometheus,linux,bash" alt="Technologies" />
+</p>
 
 ![Pavithra's github stats](https://github-readme-stats.vercel.app/api?username=pavithranagaraj26&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
