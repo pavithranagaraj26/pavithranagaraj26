@@ -1,11 +1,31 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Professional Cloud Architect" />
-  <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer" />
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate" />
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Certified: Azure Fundamentals" />
-  <img src="https://img.shields.io/badge/Jenkins-Certified_Engineer_2021-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Certified Jenkins Engineer 2021" />
-  <img src="https://img.shields.io/badge/Python_Institute-PCEP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PCEP Certified Entry-Level Python Programmer" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="logos/ace.png" width="64" height="64" alt="Google Cloud" /><br />
+      <sub><b>Google Cloud</b><br />Associate Cloud Engineer</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=gcp" width="64" height="64" alt="Google Cloud" /><br />
+      <sub><b>Google Cloud</b><br />Professional Cloud Architect</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=terraform" width="64" height="64" alt="HashiCorp" /><br />
+      <sub><b>HashiCorp</b><br />Terraform Associate</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=azure" width="64" height="64" alt="Microsoft" /><br />
+      <sub><b>Microsoft</b><br />Azure Fundamentals</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="64" height="64" alt="Jenkins" /><br />
+      <sub><b>Jenkins</b><br />Certified Engineer 2021</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="64" height="64" alt="Python Institute" /><br />
+      <sub><b>Python Institute</b><br />PCEP</sub>
+    </td>
+  </tr>
+</table>
 
 <h2>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Pavithra Nagaraj,</h2>
 
