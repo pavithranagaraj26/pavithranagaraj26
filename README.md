@@ -42,6 +42,7 @@ Click 👉 <a href="https://pavithranagaraj26.github.io/"> Portfolio </a>
 - **Cloud platforms and governance:** cloud foundations, multi-cloud and multi-tenant architecture, project lifecycle and cost-driven decommissioning
 - **Identity and security:** least-privilege IAM, cross-cloud Workload Identity Federation (Azure to GCP), Security Command Center automation
 - **Automation and tooling:** Python-based infrastructure automation, event-driven functions, internal self-service platforms and an MCP server
+- **Streaming platform:** onboarded a WarpStream (Kafka-compatible) BYOC proof of concept onto GKE, with Terraform and Atlantis-managed access and GitOps-delivered monitoring and alerting
 - **Delivery and reliability:** Terraform, GitOps, CI/CD, Kubernetes (GKE, AKS), observability with Grafana, Loki and Prometheus, incident ownership and RCA
 
 ## 🏢 Experience
